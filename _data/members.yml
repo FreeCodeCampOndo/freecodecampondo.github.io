@@ -1,0 +1,47 @@
+- name: Bill Mills
+  affiliation: Mozilla Science Lab
+  github: BillMills
+  interests:
+    - Programming
+    - Open Science
+
+- name: Amy Lee
+  affiliation: University of British Columbia
+  github: minisciencegirl
+  interests:
+    - Genomics
+    - Microbial pathogens
+    - Open Science
+    - R
+
+- name: Erica Acton
+  affiliation: University of British Columbia
+  github: eacton
+  interests:
+    - Genomics
+    - Bioinformatics
+
+- name: Alyssa F
+  affiliation: University of British Columbia
+  github: alyeffy
+  interests:
+    - Data Science
+    - Bioinformatics
+
+- name: Jeff Stafford
+  affiliation: University of British Columbia
+  github: kazi11
+  interests:
+    - Genomics
+    - Image Analysis
+    - Bioinformatics
+
+- name: Fong Chun Chan
+  affiliation: British Columbia Cancer Research Center & University of British Columbia
+  github: tinyheero
+  interests:
+    - Data Science
+    - Genomics
+    - Cancer Research
+    - Bioinformatics
+    
