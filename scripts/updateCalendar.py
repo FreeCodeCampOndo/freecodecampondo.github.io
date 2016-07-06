@@ -41,7 +41,7 @@ except ImportError:
 
 # Modify these variables in step 2 above ------------------- 
 APPLICATION_NAME = 'Free Code Camp Ondo Meetups' # app name you created in step one above
-CALENDAR_ID='freecodecampondo@gmail.com' # google account name you created for your calendar
+CALENDAR_ID='FCC Ondo Calendar' # google account name you created for your calendar
 POSTS_DIRECTORY="/minisciencegirl/studyGroup/tree/gh-pages/_posts" # full path to your studyGroup/_posts directory on your local computer.
 TIME_ZONE_STR = 'Africa/Lagos' # not sure? check here: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 #-----------------------------------------------------------
