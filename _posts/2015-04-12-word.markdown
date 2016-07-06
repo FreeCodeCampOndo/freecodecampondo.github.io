@@ -1,8 +1,8 @@
 ---
-title: (Proposed) Coffee and Code Session
-text: Coffee and Code First Meetup (August 2016)
-location: 
-link: https://github.com/freecodecampondo/freecodecamp.github.io/issues/1
+title: Coffee and Code Session (Proposed)
+text: Proposition of a meetup for FCC Ondo City for August 2016 (Open to Suggestions)
+location: Ondo City
+link: https://github.com/FreeCodeCampOndo/freecodecampondo.github.io/issues/1
 date: 2016-08-1
 
 ---

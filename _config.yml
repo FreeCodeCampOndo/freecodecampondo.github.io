@@ -5,7 +5,7 @@
 user: freecodecampondo
 
 #Step 2: give your study group a name and a short description:
-title: Free Code Camp Ondo
+title: FreeCodeCamp Ondo
 
 description: "Ondo City Study Group"
 
@@ -21,7 +21,7 @@ description: "Ondo City Study Group"
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/1597/s1200/canadian-coding-bootcamps-list.jpg"
-headlineSmall: "Welcome To Our Coding Group!"
+headlineSmall: "Welcome To FreeCodeCamp Ondo!"
 headlineMain: "Let's Code Together"
 
 # Setup Google Calendar
