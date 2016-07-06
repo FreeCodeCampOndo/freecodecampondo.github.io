@@ -1,5 +1,5 @@
 - name: Olawale Akinseye
-  affiliation: Brainysoft Inc.
+  affiliation: House of Misiano
   github: brainyfarm
   interests:
     - Programming
@@ -10,11 +10,18 @@
   github: quincylarson
   interests:
     - Programming
-    - Family
+    - Open Source
 
-- name: Olawale Akinseye
-  affiliation: Castrol Ventures
-  github: eacton
+- name: Segun Akindairo
+  affiliation: Your Affliation
+  github: segdaren
   interests:
-    - Genomics
-    - Bioinformatics
+    - Interest One
+    - Interest Two	
+	
+- name: Uloaku Enyingwa
+  affiliation: Your Affliation
+  github: tshuwari
+  interests:
+    - Interest One
+    - Interest Two

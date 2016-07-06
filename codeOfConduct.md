@@ -1,4 +1,6 @@
-# Free Code Camp Ondo Code of Conduct
+Free Code Camp Ondo
+=======================
+# Code of Conduct
 
 Free Code Camp events are community events intended for networking and collaboration as well as learning. We value the participation of every member of the programming community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the events and in interactions online associated with our study group.
 
