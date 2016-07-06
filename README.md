@@ -13,13 +13,13 @@ You can work through the self-paced coding challenges, build projects, and earn 
 
 ## For Members
 
-Welcome to our FreeCodeCamp Ondo Study Group! A few things to do & know now that you're here:
+Welcome to FreeCodeCamp Ondo Local Group! A few things to do & know now that you're here:
 
- - **Watch and Star this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
+ - **Watch and star this repo:** up in the top right, there's a button that says 'Watch'; click it, and set yourself to 'Watching'. This will send you email notifications of new discussions; if you don't want email, but would like an alert just on GitHub, change the setting in Settings -> Notification Center (Settings is the little cog in the top right).
  - **Check out the issue tracker:** click on 'issues' in the sidebar on the right; this is where all the conversations this study groups is having live. Use this space to ask questions, request events, make suggestions, or just say hi.
  - **Read the code of conduct:** this Local Group is for everyone - we abide by a [set of rules](https://github.com/FreeCodeCampOndo/freecodecampondo.github.io/blob/master/codeOfConduct.md) that require everyone be treated with respect. Help us make a space where everyone feels welcome, and we'll all have a better time while learning to code!
  - **Add yourself to [our website](http://freecodecampondo.github.io):** If you would like to appear on the website under the 'Who we Are' section, have a look at the `_data/members.yml` file [right here](https://github.com/FreeCodeCampOndo/freecodecampondo.github.io/blob/master/_data/members.yml), edit and add your own data and submit a pull request, or open an issue and we'll do it for you.
- - **Feel Free:** Try to make changes here and there (Don't worry, you won't break anything)
+ - **Feel free:** Try to make changes here and there (Don't worry, you won't break anything)
 
 
 ### I Need Help

@@ -1,8 +1,7 @@
 ---
-title: First Coffee and Code Session - Free Code Camp Ondo City (Proposition)
+title: Coffee and Code Session - Free Code Camp Ondo City (Proposed)
 text: Introducing ourselves, Intro to GitHub, Learning to work collaboratively on github using this website, Solving Algorithm challenges
 location: Ondo City
 link: https://github.com/FreeCodeCampOndo/freecodecampondo.github.io/issues/1
-date: 2016-08-20
 
 ---
