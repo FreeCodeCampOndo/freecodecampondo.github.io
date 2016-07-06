@@ -1,9 +1,9 @@
-- name: Bill Mills
-  affiliation: Mozilla Science Lab
-  github: BillMills
+- name: Olawale Akinseye
+  affiliation: Brainysoft Inc.
+  github: brainyfarm
   interests:
     - Programming
-    - Open Science
+    - Space Exploration
 
 - name: Amy Lee
   affiliation: University of British Columbia
@@ -20,28 +20,3 @@
   interests:
     - Genomics
     - Bioinformatics
-
-- name: Alyssa F
-  affiliation: University of British Columbia
-  github: alyeffy
-  interests:
-    - Data Science
-    - Bioinformatics
-
-- name: Jeff Stafford
-  affiliation: University of British Columbia
-  github: kazi11
-  interests:
-    - Genomics
-    - Image Analysis
-    - Bioinformatics
-
-- name: Fong Chun Chan
-  affiliation: British Columbia Cancer Research Center & University of British Columbia
-  github: tinyheero
-  interests:
-    - Data Science
-    - Genomics
-    - Cancer Research
-    - Bioinformatics
-    
