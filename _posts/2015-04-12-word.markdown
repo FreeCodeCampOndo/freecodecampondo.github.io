@@ -1,8 +1,8 @@
 ---
-title: FreeCodeCamp Ondo First Meetup
-text: A proposed meetup for our group here in Ondo
-location: Unknown yet
+title: (Proposed) Coffee and Code Session
+text: Coffee and Code First Meetup (August 2016)
+location: 
 link: https://github.com/freecodecampondo/freecodecamp.github.io/issues/1
-date: 2016-08-15
+date: 2016-08-1
 
 ---
