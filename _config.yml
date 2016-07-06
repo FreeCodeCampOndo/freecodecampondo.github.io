@@ -21,7 +21,7 @@ description: "Ondo City Study Group"
 # None of these things need to be changed - but feel free!
 
 titleBackground: "https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/1597/s1200/canadian-coding-bootcamps-list.jpg"
-headlineSmall: "Welcome To Our Study Group!"
+headlineSmall: "Welcome To Our Coding Group!"
 headlineMain: "Let's Code Together"
 
 # Setup Google Calendar
@@ -31,8 +31,8 @@ headlineMain: "Let's Code Together"
 # 3. set calendar_on: True.
 
 calendar_on: TRUE
-calendar_embed_url: "https://www.google.com/calendar/embed?src=minisciencegirl@gmail.com"
-calendar_ical_url: "https://www.google.com/calendar/ical/minisciencegirl@gmail.com/public/basic.ics"
+calendar_embed_url: "https://www.google.com/calendar/embed?src=freecodecampondo@gmail.com"
+calendar_ical_url: "https://www.google.com/calendar/ical/freecodecampondo@gmail.com/public/basic.ics"
 
 
 #========================================
