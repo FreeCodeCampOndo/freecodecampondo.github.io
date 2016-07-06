@@ -1,8 +1,8 @@
 ---
-title: (Proposition) A Coffee and Code Session - Free Code Camp Ondo City first meetup, August 2016 (Open to Suggestions)
-text: Introducing ourselves, Intro to GitHub, Learning to work collaboratively on github using this website, FreeCodeCamp Algorithm challenges
+title: First Coffee and Code Session - Free Code Camp Ondo City (Proposition)
+text: Introducing ourselves, Intro to GitHub, Learning to work collaboratively on github using this website, Solving FreeCodeCamp Algorithm challenges, General coding discussions 
 location: Ondo City
 link: https://github.com/FreeCodeCampOndo/freecodecampondo.github.io/issues/1
-date: 2016-08-1
+date: 2016-08-20
 
 ---
