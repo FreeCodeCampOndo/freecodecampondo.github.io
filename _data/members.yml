@@ -5,17 +5,15 @@
     - Programming
     - Space Exploration
 
-- name: Amy Lee
-  affiliation: University of British Columbia
-  github: minisciencegirl
+- name: Quincy Larson
+  affiliation: Founder FreeCodeCamp
+  github: quincylarson
   interests:
-    - Genomics
-    - Microbial pathogens
-    - Open Science
-    - R
+    - Programming
+    - Family
 
-- name: Erica Acton
-  affiliation: University of British Columbia
+- name: Akinrinlola Ayoola
+  affiliation: Castrol Ventures
   github: eacton
   interests:
     - Genomics
